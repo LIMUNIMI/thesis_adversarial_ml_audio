@@ -130,3 +130,5 @@ dmypy.json
 
 # project things
 datasets/
+processed_data/
+trained_models/
